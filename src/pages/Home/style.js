@@ -72,6 +72,14 @@ export const ListInfo = styled.div`
         color: #999;
     }
 `
+export const Addition = styled.div`
+    color:#999;
+    font-size:12px;
+    font-weight:400;
+    span{
+        margin-right:10px;
+    }
+`
 export const RecommendWrapper = styled.div`
     margin:30px 0;
     width: 280px;

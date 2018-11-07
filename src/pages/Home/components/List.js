@@ -2,7 +2,7 @@ import React,{PureComponent} from 'react'
 import {connect} from 'react-redux'
 import {Link} from 'react-router-dom'
 import {actionCreators} from '../store'
-import {ListItem,ListInfo,LoadMore} from '../style'
+import {ListItem,ListInfo,Addition,LoadMore} from '../style'
 
 class List extends PureComponent{
     render() {
@@ -19,6 +19,12 @@ class List extends PureComponent{
                                         <h3 className="title">{item.get('title')}</h3>
                                         <p className="desc">{item.get('desc')}</p>
                                     </ListInfo>
+                                    <Addition>
+                                        <span>{item.get('writer')}</span>
+                                        <span><i className="iconfont">&#xe633;</i>{item.get('comments')}</span>
+                                        <span><i className="iconfont">&#xe62a;</i>{item.get('likers')}</span>
+                                        <span><i className="iconfont">&#xe62b;</i>{item.get('money')}</span>
+                                    </Addition>
                                 </ListItem>
                             </Link>
                         )

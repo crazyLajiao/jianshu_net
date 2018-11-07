@@ -33,7 +33,7 @@ class Topic extends PureComponent{
                     <Link to="/topic">
                         <ListTittle onClick={changeRecommendActive} className={recommendActive ? "active" : null}>
                             <span className="title">
-                                <i className="iconfont">&#xe633;</i>推荐
+                                <i className="iconfont">&#xe620;</i>推荐
                             </span>
                         </ListTittle>
                     </Link>
@@ -47,14 +47,14 @@ class Topic extends PureComponent{
                     <Link to="/topic/citytopic">
                         <ListTittle onClick={changeCityActive} className={cityActive ? "active" : null}>
                             <span className="title">
-                                <i className="iconfont">&#xe633;</i>城市
+                                <i className="iconfont">&#xe6ad;</i>城市
                             </span>
                         </ListTittle>
                     </Link>
                     <Link to="/topic/schooltopic">
                         <ListTittle onClick={changeSchoolActive} className={schoolActive ? "active" : null}>
                             <span className="title">
-                                <i className="iconfont">&#xe633;</i>校园
+                                <i className="iconfont">&#xeced;</i>校园
                             </span>
                         </ListTittle>
                     </Link>

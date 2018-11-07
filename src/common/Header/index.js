@@ -27,7 +27,7 @@ class Header extends Component{
         return (
             <HeaderWrapper>
                 <Link to="/">
-                    <Logo/>
+                    <Logo onClick={()=>handleHomeActive(true)}/>
                 </Link>
                 <Nav>
                     <Link to="/"><NavItem className={"left "+(home? "active" : "")} onClick={()=>handleHomeActive(true)}>首页</NavItem></Link>
