@@ -3,6 +3,7 @@ import {Provider} from 'react-redux'
 import {BrowserRouter as Router,Route,Switch} from 'react-router-dom'
 import Header from "./common/Header";
 import Home from './pages/Home'
+import Topic from './pages/Topic'
 import Login from './pages/Login'
 import Write from './pages/Write'
 import Detail from './pages/Detail'
@@ -25,6 +26,7 @@ class App extends Component {
                     <Header/>
                     <Switch>
                      <Route path="/" exact component={Home}/>
+                     <Route path="/topic" exact component={Topic}/>
                      <Route path="/login" exact component={Login}/>
                      <Route path="/write"  component={Write}/>
                      <Route path="/detail/:id" component={Detail}/>

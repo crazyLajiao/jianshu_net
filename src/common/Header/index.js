@@ -19,20 +19,19 @@ import {
     Addition,
     Button
 } from "./style";
-
+import {changeHomeActive} from "./store/actionCreators";
 
 class Header extends Component{
     render() {
-        const {focused,list,login,handleInputFocus,handleInputBlur,logout} = this.props
-        console.log(this.props)
+        const {home,focused,list,login,handleInputFocus,handleInputBlur,handleHomeActive,logout} = this.props
         return (
             <HeaderWrapper>
                 <Link to="/">
                     <Logo/>
                 </Link>
                 <Nav>
-                    <Link to="/"><NavItem className="left active">首页</NavItem></Link>
-                    <Link to="/download"><NavItem className="left">下载</NavItem></Link>
+                    <Link to="/"><NavItem className={"left "+(home? "active" : "")} onClick={()=>handleHomeActive(true)}>首页</NavItem></Link>
+                    <Link to="/download"><NavItem className={"left "+(home? "" : "active")} onClick={()=>handleHomeActive(false)}>下载</NavItem></Link>
                     {
                         login ? <NavItem onClick={logout} className="right">退出</NavItem> :
                             <Link to="/login"><NavItem className="right">登录</NavItem></Link>
@@ -100,10 +99,12 @@ class Header extends Component{
             return null
         }
     }
+
 }
 
 const mapState = (state)=>{
     return {
+        home:state.getIn(['header','home']),
         focused:state.getIn(['header','focused']),
         list:state.getIn(['header','list']),
         page:state.getIn(['header','page']),
@@ -114,6 +115,9 @@ const mapState = (state)=>{
 }
 const mapDispatch = (dispatch)=>{
     return {
+        handleHomeActive(value){
+            dispatch(changeHomeActive(value))
+        },
         handleInputFocus(list) {
             (list.size===0) && dispatch(actionCreators.getList())
             dispatch(actionCreators.searchFocus())

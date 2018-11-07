@@ -7,7 +7,10 @@ const changeList = (data)=>({
     data:fromJS(data),  //data从普通数组转换成immutable类型数组
     totalPage:Math.ceil(data.length/10)
 })
-
+export const changeHomeActive = (value)=>({
+    type:constants.CHANGE_HOME_ACTIVE,
+    value
+})
 export const searchFocus = ()=>({
     type: constants.SEARCH_FOCUS
 })

@@ -1,0 +1,377 @@
+{
+  "success":true,
+  "data": {
+    "recommendList": [
+      {
+        "id":1,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":2,
+        "name":"自然科普",
+        "avatar":"//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":3,
+        "name":"手绘",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":4,
+        "name":"脑洞",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":5,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":6,
+        "name":"电影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":7,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":8,
+        "name":"程序员",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":9,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":10,
+        "name":"手绘",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":11,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":12,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"邂逅一个国家，讲述一座城市，这里有你期待的诗与远方。",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":13,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":14,
+        "name":"@IT互联网",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":15,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      }
+    ],
+    "hotList": [
+      {
+        "id":1,
+        "name":"首页投稿（暂停使用，暂停投稿）",
+        "avatar":"//upload.jianshu.io/collections/images/47/%E9%A6%96%E9%A1%B5%E6%8A%95%E7%A8%BF.png?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"原首页投稿专题现暂停使用。具体请查看：简书新版发现页文...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":2,
+        "name":"自然科普",
+        "avatar":"//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":3,
+        "name":"手绘",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":4,
+        "name":"脑洞",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":5,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":6,
+        "name":"电影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":7,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":8,
+        "name":"程序员",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":9,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":10,
+        "name":"手绘",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":11,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":12,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"邂逅一个国家，讲述一座城市，这里有你期待的诗与远方。",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":13,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":14,
+        "name":"@IT互联网",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":15,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      }
+    ],
+    "cityList": [
+      {
+        "id":1,
+        "name":"香港",
+        "avatar":"//upload.jianshu.io/collections/images/280816/%E9%A6%99%E6%B8%AF.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"香港，中国的一扇窗，一方面把自己打扮得珠光宝气，一方面又保持古老传统。...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":2,
+        "name":"湖南省",
+        "avatar":"//upload.jianshu.io/collections/images/279578/%E6%B9%96%E5%8D%97.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"湘江北去，芙蓉天成。冒有胆子，就不要搞湖湘文化。你要有胆...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":3,
+        "name":"北京",
+        "avatar":"//upload.jianshu.io/collections/images/278845/WechatIMG2.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"讲述最鲜活的北京人和事儿，和你一起在京城。投稿须知：http:...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":4,
+        "name":"脑洞",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":5,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":6,
+        "name":"电影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":7,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":8,
+        "name":"程序员",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":9,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":10,
+        "name":"手绘",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":11,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":12,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"邂逅一个国家，讲述一座城市，这里有你期待的诗与远方。",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":13,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":14,
+        "name":"@IT互联网",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":15,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      }
+    ],
+    "schoolList":[
+      {
+        "id":1,
+        "name":"山西师范大学现代文理学院",
+        "avatar":"//upload.jianshu.io/collections/images/474663/crop1512035627259.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"在这里你可以发挥天马行空的想象力，菁菁校园的四年时光，我们欢笑，我们流...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":2,
+        "name":"中北大学",
+        "avatar":"//upload.jianshu.io/collections/images/464476/%E6%8D%95%E8%8E%B7%E4%BA%B2%E4%BA%B2.PNG?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"龙山脚下，汾河岸边，这里是你生活四年的地方。在这里有过欢笑、有过泪水、...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":3,
+        "name":"山西农业大学信息学院",
+        "avatar":"//upload.jianshu.io/collections/images/466157/%E9%99%A2%E5%BE%BD.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"山西农业大学信息学院学生、老师、宿舍阿姨、食堂大叔的文章都在这里哦...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":4,
+        "name":"脑洞",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":5,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":6,
+        "name":"电影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":7,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"本专题仅收涉及自然科学(生物、天文、物理等)的科普、介绍、发现类文章，....",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":8,
+        "name":"程序员",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":9,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":10,
+        "name":"手绘",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":11,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":12,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"邂逅一个国家，讲述一座城市，这里有你期待的诗与远方。",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":13,
+        "name":"摄影",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":14,
+        "name":"@IT互联网",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      },{
+        "id":15,
+        "name":"读书",
+        "avatar":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/180/h/180",
+        "desc":"投稿须知:读书专题仅收录与读书有关的书评、读书笔记...",
+        "count":"184967篇文章· 3602.1K人关注"
+      }
+    ]
+  }
+}

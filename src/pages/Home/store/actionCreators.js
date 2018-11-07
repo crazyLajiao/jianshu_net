@@ -20,7 +20,6 @@ export const getHomeInfo = ()=>{
     return (dispatch)=>{
         axios.get('/api/home.json').then((res)=>{
             const result = res.data.data
-            console.log(result)
             dispatch(changeHomeData(result))
         }).catch((err)=>{
             console.log(err)

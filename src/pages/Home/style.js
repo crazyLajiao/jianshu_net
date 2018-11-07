@@ -40,6 +40,10 @@ export const TopicItem = styled.div`
         height: 32px;
         margin-right:10px;
     }
+    &.loadMore{
+        color:#787878;
+        border:none;
+    }
 `
 export const ListItem = styled.div`
     overflow: hidden;
@@ -171,7 +175,7 @@ export const CarouselWrapper = styled.div`
    margin-bottom:35px;
    border-radius:15px;
    overflow:hidden;
-   z-index:1000;
+   z-index:0;
    .banner-img{
         width: 625px;
         height: 270px;
